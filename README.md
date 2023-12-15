@@ -1,5 +1,5 @@
 ### Hola !!! 👋
-Aspiring developer 🚀 | Proficient in Python, Java, SQL 💻 | Hackerrank & LeetCode enthusiast 🧠 | Eager to master JavaScript 🌐 | Lifelong learner 📚 | Let's connect and create awesome projects together! 👥 | 👯 I’m looking to collaborate on python and machine learning and javscript |
+Aspiring developer 🚀 | Proficient in Python, Java, SQL 💻 | Hackerrank & LeetCode enthusiast 🧠 | Eager to master JavaScript 🌐 | Lifelong learner 📚 | Let's connect and create awesome projects together! 👥 | 👯 I’m looking to collaborate on python and java|
 📫 How to reach me: swathikumar062201@gmail.com | 💬 : www.linkedin.com/in/swathy-k01 
 
 <!--
